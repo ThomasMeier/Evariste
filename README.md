@@ -32,14 +32,7 @@ There are two supported groups at the moment. The multiplicative group of intege
 
     > Z_4
     > (0 1 2 3)
-
-###Abelian
-
-Check if group is abelian
-
-    > abelian? U(22)
-    > No
-
+	
 ###Order
 
 To find order of a group,
@@ -47,13 +40,6 @@ To find order of a group,
     > order Z_4
     > The order of Z_4 is 4
 
-
-###Element Orders
-
-To find the order of all elements in a group, enter
-
-    > element-order U(22)
-    > (|1| = 1, |3| = 5, |5| = 5, |7| = 10, |9| = 5, |13| = 10, |15| = 5, |17| = 10, |19| = 10, |21| = 2)
 
 ###Generating Elements
 
