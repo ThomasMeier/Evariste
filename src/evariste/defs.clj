@@ -1,5 +1,5 @@
 ; The Group Definitions
-(ns groups.defs
+(ns evariste.defs
   (:require [clojure.math.numeric-tower :as math]))
 
 (defn unit-mod

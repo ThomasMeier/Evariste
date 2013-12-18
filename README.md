@@ -1,10 +1,6 @@
-# Abstract Groups
+# Evariste
 
-Groups provides a simple way to look at groups, their elements, and their basic properties. It beats doing so by hand!
-
-## Installation
-
-Clone and  `lein run`.
+Evariste provides a simple way to look at groups, their elements, and their basic properties. It beats doing so by hand!
 
 ## Usage
 
@@ -12,12 +8,12 @@ There are three groups we will look at in the initial version. The first is mult
 
 The starting point is:
 
-    > Hello there! What group or property would you like to look at?
+    Hello there! What group or property would you like to look at?
 
-To find see a the group of multiplative units, enter U(n) where n is the terminating value of the group.
+To find see the group of units mod n under multiplication, enter U(n).
 
-    > U(10)
-	> (1 3 7 9)
+    U(10)
+    (1 3 7 9)
 
 ## Group Operations
 

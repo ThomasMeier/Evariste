@@ -1,6 +1,6 @@
 ; Group Properties
-(ns groups.props
-  (:require [groups.defs :as defs]
+(ns evariste.props
+  (:require [evariste.defs :as defs]
             [clojure.math.numeric-tower :as math])
   (use [clojure.set :only (difference)]))
 

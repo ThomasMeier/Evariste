@@ -1,8 +1,8 @@
-(ns groups.core-test
+(ns evariste.evariste_test
   (:require [clojure.test :refer :all]
-            [groups.core :refer :all]
-            [groups.defs :as defs]
-            [groups.props :as props]))
+            [evariste.core :refer :all]
+            [evariste.defs :as defs]
+            [evariste.props :as props]))
 
 ;defs tests here for now, needs reorganization
 (deftest u-mod-test
