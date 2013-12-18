@@ -20,10 +20,6 @@
   (println "\nAnything else? (type 'quit' to end.)\n")
   (read-user-request (trim (read-line))))
 
-(defn hello
-  [x]
-  (println (split x #"\s+")))
-
 (defn -main
   "Initialize working loop"
   [& args]
