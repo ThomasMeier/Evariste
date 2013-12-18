@@ -1,4 +1,4 @@
-(defproject groups "0.1.0-SNAPSHOT"
+(defproject abstract-groups "0.1.0"
   :description "A program to provide information about finite algebraic groups."
   :url "http://citrine.it/"
   :license {:name "Eclipse Public License"
